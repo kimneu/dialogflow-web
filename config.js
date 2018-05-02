@@ -1,8 +1,8 @@
 export default {
     app: {
-        token: "9d686a47b1de48bab431e94750d1cd87", // <- enter your token here
-        muted: false, // <- mute microphone by default
-        watermark: true // <- show watermark
+        token: "73b606ace0e54f1ca503e71fb2e3f7d1", // <- enter your token here
+        muted: true, // <- mute microphone by default
+        watermark: false // <- show watermark
     },
     locale: {
         strings: {
